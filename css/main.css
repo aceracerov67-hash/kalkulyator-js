@@ -47,3 +47,11 @@ button {
 .zero {
   grid-column: span 2;
 }
+
+button:hover {
+  background: #334155;
+  color: #ffffff;
+}
+button:active {
+  background: #1e293b;
+}
