@@ -20,4 +20,3 @@ function calc() {
   }
 }
 
-document.addEventListener("keydown", function(event) {
