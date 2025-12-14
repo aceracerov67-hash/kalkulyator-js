@@ -19,3 +19,5 @@ function calc() {
     display.value = "Error";
   }
 }
+
+document.addEventListener("keydown", function(event) {
